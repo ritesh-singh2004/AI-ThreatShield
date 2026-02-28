@@ -1,3 +1,4 @@
+<<<<<<< HEAD
     # Create README
     readme_content = """# CYBER SECURITY PROJECT
 
@@ -29,3 +30,7 @@
 ## 🚨 Quick Start:
 ```bash
 python main.py
+=======
+# AI-ThreatShield
+AI-ThreatShield is an AI-powered, privacy-first cybersecurity platform built for students and institutions. It detects phishing, malware, and identity risks in real time provides clear, explainable alerts, and promotes digital hygiene. Designed with consent-based access and privacy-preserving analytics to ensure secure trusted digital environments.
+>>>>>>> a6d8e391b1c1a72e90c6a5b91bbb3e4643361128
