@@ -1,0 +1,32 @@
+{
+    "analysis_time": "2026-02-28 20:06:50",
+    "total_events": 3,
+    "event_types": {
+        "Suspicious port 3389 used - RDP Attack": 1,
+        "Suspicious port 445 used - SMB Exploit": 1,
+        "High resource usage detected - Possible Miner": 1
+    },
+    "daily_summary": {
+        "2026-02-09": 3
+    },
+    "top_locations": [
+        {
+            "location": "Beijing, China",
+            "count": 1
+        },
+        {
+            "location": "Moscow, Russia",
+            "count": 1
+        }
+    ],
+    "top_ips": [
+        {
+            "ip": "103.216.154.205",
+            "count": 1
+        },
+        {
+            "ip": "45.67.89.123",
+            "count": 1
+        }
+    ]
+}

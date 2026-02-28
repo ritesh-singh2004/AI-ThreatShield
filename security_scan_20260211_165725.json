@@ -1,0 +1,15 @@
+{
+  "scan_timestamp": "2026-02-11T16:57:00.659790",
+  "system_info": {},
+  "files_scanned": [],
+  "vulnerabilities_found": [],
+  "recommendations": [],
+  "network_info": {
+    "hostname": "DESKTOP-HEED741",
+    "timestamp": "2026-02-11T16:57:17.917718",
+    "local_services": [],
+    "ip_address": "10.173.185.56"
+  },
+  "file_hashes": {},
+  "scan_summary": {}
+}

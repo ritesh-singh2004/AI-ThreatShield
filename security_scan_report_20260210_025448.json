@@ -1,0 +1,20 @@
+{
+    "scan_timestamp": "2026-02-10T02:54:40.976984",
+    "system_info": {},
+    "files_scanned": [],
+    "vulnerabilities_found": [
+        {
+            "type": "\u0907\u0928\u094d\u091f\u094d\u0930\u0942\u091c\u093c\u0928 \u0932\u0949\u0917",
+            "file": "intrusion_logs.json",
+            "reason": "17 \u0907\u0928\u094d\u091f\u094d\u0930\u0942\u091c\u093c\u0928 \u0930\u093f\u0915\u0949\u0930\u094d\u0921\u094d\u0938 \u092e\u093f\u0932\u0947",
+            "severity": "\u0938\u0942\u091a\u0928\u093e\u0924\u094d\u092e\u0915"
+        },
+        {
+            "type": "\u0907\u0928\u094d\u091f\u094d\u0930\u0942\u091c\u093c\u0928 \u0932\u0949\u0917",
+            "file": "intrusion_logs_fixed.json",
+            "reason": "43 \u0907\u0928\u094d\u091f\u094d\u0930\u0942\u091c\u093c\u0928 \u0930\u093f\u0915\u0949\u0930\u094d\u0921\u094d\u0938 \u092e\u093f\u0932\u0947",
+            "severity": "\u0938\u0942\u091a\u0928\u093e\u0924\u094d\u092e\u0915"
+        }
+    ],
+    "recommendations": []
+}

@@ -1,0 +1,78 @@
+======================================================================
+SECURITY SCAN REPORT
+======================================================================
+
+SUMMARY
+----------------------------------------------------------------------
+Scan Time: 2026-02-10T03:02:47.201153
+System: Windows
+Files Scanned: 23
+Vulnerabilities: 13
+
+VULNERABILITIES
+----------------------------------------------------------------------
+[HIGH] CODE_SECURITY
+File: .\firewall_manager.py
+Reason: Shell injection risk
+Line: 7
+
+[HIGH] CODE_SECURITY
+File: .\firewall_manager.py
+Reason: Shell injection risk
+Line: 11
+
+[MEDIUM] CODE_SECURITY
+File: .\fix_json_issue.py
+Reason: User input without validation
+Line: 107
+
+[MEDIUM] CODE_SECURITY
+File: .\log_analyzer.py
+Reason: User input without validation
+Line: 358
+
+[HIGH] CODE_SECURITY
+File: .\main.py
+Reason: Shell injection risk
+Line: 256
+
+[MEDIUM] CODE_SECURITY
+File: .\main.py
+Reason: User input without validation
+Line: 688
+
+[MEDIUM] CODE_SECURITY
+File: .\main.py
+Reason: User input without validation
+Line: 734
+
+[CRITICAL] CODE_SECURITY
+File: .\quick_scan.py
+Reason: eval() function usage
+Line: 39
+
+[CRITICAL] CODE_SECURITY
+File: .\quick_scan.py
+Reason: exec() function usage
+Line: 39
+
+[CRITICAL] CODE_SECURITY
+File: .\quick_scan.py
+Reason: eval() function usage
+Line: 421
+
+[CRITICAL] CODE_SECURITY
+File: .\quick_scan.py
+Reason: exec() function usage
+Line: 422
+
+[MEDIUM] CODE_SECURITY
+File: .\quick_scan.py
+Reason: User input without validation
+Line: 697
+
+[MEDIUM] CODE_SECURITY
+File: .\quick_scan.py
+Reason: User input without validation
+Line: 705
+

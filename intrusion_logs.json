@@ -1,0 +1,618 @@
+[
+    {
+        "timestamp": "2026-02-09 19:37:19",
+        "reason": "Suspicious port 3389 used - RDP Attack",
+        "remote_address": "103.216.154.205:3389",
+        "geolocation": {
+            "city": "Beijing",
+            "region": "Beijing",
+            "country": "China",
+            "isp": "China Telecom"
+        }
+    },
+    {
+        "timestamp": "2026-02-09 19:37:19",
+        "reason": "Suspicious port 445 used - SMB Exploit",
+        "remote_address": "45.67.89.123:445",
+        "geolocation": {
+            "city": "Moscow",
+            "region": "Moscow Oblast",
+            "country": "Russia",
+            "isp": "Russian Telecom"
+        }
+    },
+    {
+        "timestamp": "2026-02-09 19:37:19",
+        "reason": "High resource usage detected - Possible Miner",
+        "process_name": "crypto_miner.exe",
+        "cpu": 85.5,
+        "memory": 45.2
+    },
+    {
+        "remote_address": "4.213.25.242:443",
+        "local_address": "192.168.1.38:49442",
+        "timestamp": "2026-02-28 20:07:39",
+        "reason": "Connection from unknown IP: 4.213.25.242"
+    },
+    {
+        "remote_address": "142.250.193.5:443",
+        "local_address": "192.168.1.38:61312",
+        "timestamp": "2026-02-28 20:07:39",
+        "reason": "Connection from unknown IP: 142.250.193.5"
+    },
+    {
+        "remote_address": "140.82.114.25:443",
+        "local_address": "192.168.1.38:53607",
+        "timestamp": "2026-02-28 20:07:39",
+        "reason": "Connection from unknown IP: 140.82.114.25"
+    },
+    {
+        "remote_address": "172.217.194.188:443",
+        "local_address": "192.168.1.38:53285",
+        "timestamp": "2026-02-28 20:07:39",
+        "reason": "Connection from unknown IP: 172.217.194.188"
+    },
+    {
+        "remote_address": "172.217.194.188:443",
+        "local_address": "192.168.1.38:51341",
+        "timestamp": "2026-02-28 20:07:39",
+        "reason": "Connection from unknown IP: 172.217.194.188"
+    },
+    {
+        "remote_address": "40.99.9.178:443",
+        "local_address": "192.168.1.38:59517",
+        "timestamp": "2026-02-28 20:07:39",
+        "reason": "Connection from unknown IP: 40.99.9.178"
+    },
+    {
+        "remote_address": "4.186.9.165:443",
+        "local_address": "192.168.1.38:55986",
+        "timestamp": "2026-02-28 20:07:39",
+        "reason": "Connection from unknown IP: 4.186.9.165"
+    },
+    {
+        "remote_address": "142.250.182.35:443",
+        "local_address": "192.168.1.38:52794",
+        "timestamp": "2026-02-28 20:07:39",
+        "reason": "Connection from unknown IP: 142.250.182.35"
+    },
+    {
+        "remote_address": "34.162.18.59:443",
+        "local_address": "192.168.1.38:58845",
+        "timestamp": "2026-02-28 20:07:39",
+        "reason": "Connection from unknown IP: 34.162.18.59"
+    },
+    {
+        "remote_address": "13.107.246.68:443",
+        "local_address": "192.168.1.38:60908",
+        "timestamp": "2026-02-28 20:07:39",
+        "reason": "Connection from unknown IP: 13.107.246.68"
+    },
+    {
+        "remote_address": "51.105.71.136:443",
+        "local_address": "192.168.1.38:57214",
+        "timestamp": "2026-02-28 20:07:39",
+        "reason": "Connection from unknown IP: 51.105.71.136"
+    },
+    {
+        "remote_address": "104.18.39.21:443",
+        "local_address": "192.168.1.38:52323",
+        "timestamp": "2026-02-28 20:07:39",
+        "reason": "Connection from unknown IP: 104.18.39.21"
+    },
+    {
+        "remote_address": "172.217.194.188:443",
+        "local_address": "192.168.1.38:55108",
+        "timestamp": "2026-02-28 20:07:39",
+        "reason": "Connection from unknown IP: 172.217.194.188"
+    },
+    {
+        "remote_address": "20.249.115.161:443",
+        "local_address": "192.168.1.38:61937",
+        "timestamp": "2026-02-28 20:07:39",
+        "reason": "Connection from unknown IP: 20.249.115.161"
+    },
+    {
+        "remote_address": "4.213.25.242:443",
+        "local_address": "192.168.1.38:49442",
+        "timestamp": "2026-02-28 20:08:11",
+        "reason": "Connection from unknown IP: 4.213.25.242"
+    },
+    {
+        "remote_address": "142.250.193.5:443",
+        "local_address": "192.168.1.38:61312",
+        "timestamp": "2026-02-28 20:08:11",
+        "reason": "Connection from unknown IP: 142.250.193.5"
+    },
+    {
+        "remote_address": "140.82.114.25:443",
+        "local_address": "192.168.1.38:53607",
+        "timestamp": "2026-02-28 20:08:11",
+        "reason": "Connection from unknown IP: 140.82.114.25"
+    },
+    {
+        "remote_address": "172.217.194.188:443",
+        "local_address": "192.168.1.38:53285",
+        "timestamp": "2026-02-28 20:08:11",
+        "reason": "Connection from unknown IP: 172.217.194.188"
+    },
+    {
+        "remote_address": "172.217.194.188:443",
+        "local_address": "192.168.1.38:51341",
+        "timestamp": "2026-02-28 20:08:11",
+        "reason": "Connection from unknown IP: 172.217.194.188"
+    },
+    {
+        "remote_address": "40.99.9.178:443",
+        "local_address": "192.168.1.38:59517",
+        "timestamp": "2026-02-28 20:08:11",
+        "reason": "Connection from unknown IP: 40.99.9.178"
+    },
+    {
+        "remote_address": "4.186.9.165:443",
+        "local_address": "192.168.1.38:55986",
+        "timestamp": "2026-02-28 20:08:11",
+        "reason": "Connection from unknown IP: 4.186.9.165"
+    },
+    {
+        "remote_address": "142.250.182.35:443",
+        "local_address": "192.168.1.38:52794",
+        "timestamp": "2026-02-28 20:08:11",
+        "reason": "Connection from unknown IP: 142.250.182.35"
+    },
+    {
+        "remote_address": "34.162.18.59:443",
+        "local_address": "192.168.1.38:58845",
+        "timestamp": "2026-02-28 20:08:11",
+        "reason": "Connection from unknown IP: 34.162.18.59"
+    },
+    {
+        "remote_address": "13.107.246.68:443",
+        "local_address": "192.168.1.38:60908",
+        "timestamp": "2026-02-28 20:08:11",
+        "reason": "Connection from unknown IP: 13.107.246.68"
+    },
+    {
+        "remote_address": "51.105.71.136:443",
+        "local_address": "192.168.1.38:57214",
+        "timestamp": "2026-02-28 20:08:11",
+        "reason": "Connection from unknown IP: 51.105.71.136"
+    },
+    {
+        "remote_address": "104.18.39.21:443",
+        "local_address": "192.168.1.38:52323",
+        "timestamp": "2026-02-28 20:08:11",
+        "reason": "Connection from unknown IP: 104.18.39.21"
+    },
+    {
+        "remote_address": "172.217.194.188:443",
+        "local_address": "192.168.1.38:55108",
+        "timestamp": "2026-02-28 20:08:11",
+        "reason": "Connection from unknown IP: 172.217.194.188"
+    },
+    {
+        "remote_address": "20.249.115.161:443",
+        "local_address": "192.168.1.38:61937",
+        "timestamp": "2026-02-28 20:08:11",
+        "reason": "Connection from unknown IP: 20.249.115.161"
+    },
+    {
+        "pid": 0,
+        "name": "System Idle Process",
+        "cpu": 1508.9,
+        "timestamp": "2026-02-28 20:08:11",
+        "reason": "High CPU usage"
+    },
+    {
+        "remote_address": "4.213.25.242:443",
+        "local_address": "192.168.1.38:49442",
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "Connection from unknown IP: 4.213.25.242"
+    },
+    {
+        "remote_address": "142.250.193.5:443",
+        "local_address": "192.168.1.38:61312",
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "Connection from unknown IP: 142.250.193.5"
+    },
+    {
+        "remote_address": "23.63.108.194:443",
+        "local_address": "192.168.1.38:59096",
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "Connection from unknown IP: 23.63.108.194"
+    },
+    {
+        "remote_address": "140.82.114.25:443",
+        "local_address": "192.168.1.38:53607",
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "Connection from unknown IP: 140.82.114.25"
+    },
+    {
+        "remote_address": "172.217.194.188:443",
+        "local_address": "192.168.1.38:53285",
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "Connection from unknown IP: 172.217.194.188"
+    },
+    {
+        "remote_address": "172.217.194.188:443",
+        "local_address": "192.168.1.38:51341",
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "Connection from unknown IP: 172.217.194.188"
+    },
+    {
+        "remote_address": "23.195.105.9:443",
+        "local_address": "192.168.1.38:63673",
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "Connection from unknown IP: 23.195.105.9"
+    },
+    {
+        "remote_address": "40.99.9.178:443",
+        "local_address": "192.168.1.38:59517",
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "Connection from unknown IP: 40.99.9.178"
+    },
+    {
+        "remote_address": "4.186.9.165:443",
+        "local_address": "192.168.1.38:55986",
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "Connection from unknown IP: 4.186.9.165"
+    },
+    {
+        "remote_address": "142.250.182.35:443",
+        "local_address": "192.168.1.38:52794",
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "Connection from unknown IP: 142.250.182.35"
+    },
+    {
+        "remote_address": "34.162.18.59:443",
+        "local_address": "192.168.1.38:58845",
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "Connection from unknown IP: 34.162.18.59"
+    },
+    {
+        "remote_address": "13.107.246.68:443",
+        "local_address": "192.168.1.38:60908",
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "Connection from unknown IP: 13.107.246.68"
+    },
+    {
+        "remote_address": "51.105.71.136:443",
+        "local_address": "192.168.1.38:57214",
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "Connection from unknown IP: 51.105.71.136"
+    },
+    {
+        "remote_address": "23.63.108.171:443",
+        "local_address": "192.168.1.38:53205",
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "Connection from unknown IP: 23.63.108.171"
+    },
+    {
+        "remote_address": "104.18.39.21:443",
+        "local_address": "192.168.1.38:52323",
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "Connection from unknown IP: 104.18.39.21"
+    },
+    {
+        "remote_address": "172.217.194.188:443",
+        "local_address": "192.168.1.38:55108",
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "Connection from unknown IP: 172.217.194.188"
+    },
+    {
+        "remote_address": "20.249.115.161:443",
+        "local_address": "192.168.1.38:61937",
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "Connection from unknown IP: 20.249.115.161"
+    },
+    {
+        "remote_address": "23.201.129.64:443",
+        "local_address": "192.168.1.38:61988",
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "Connection from unknown IP: 23.201.129.64"
+    },
+    {
+        "remote_address": "23.63.108.171:443",
+        "local_address": "192.168.1.38:59095",
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "Connection from unknown IP: 23.63.108.171"
+    },
+    {
+        "pid": 0,
+        "name": "System Idle Process",
+        "cpu": 1445.7,
+        "timestamp": "2026-02-28 20:08:43",
+        "reason": "High CPU usage"
+    },
+    {
+        "remote_address": "4.213.25.242:443",
+        "local_address": "192.168.1.38:49442",
+        "timestamp": "2026-02-28 20:09:14",
+        "reason": "Connection from unknown IP: 4.213.25.242"
+    },
+    {
+        "remote_address": "142.250.193.5:443",
+        "local_address": "192.168.1.38:61312",
+        "timestamp": "2026-02-28 20:09:14",
+        "reason": "Connection from unknown IP: 142.250.193.5"
+    },
+    {
+        "remote_address": "23.63.108.194:443",
+        "local_address": "192.168.1.38:59096",
+        "timestamp": "2026-02-28 20:09:14",
+        "reason": "Connection from unknown IP: 23.63.108.194"
+    },
+    {
+        "remote_address": "140.82.114.25:443",
+        "local_address": "192.168.1.38:53607",
+        "timestamp": "2026-02-28 20:09:14",
+        "reason": "Connection from unknown IP: 140.82.114.25"
+    },
+    {
+        "remote_address": "172.217.194.188:443",
+        "local_address": "192.168.1.38:53285",
+        "timestamp": "2026-02-28 20:09:14",
+        "reason": "Connection from unknown IP: 172.217.194.188"
+    },
+    {
+        "remote_address": "172.217.194.188:443",
+        "local_address": "192.168.1.38:51341",
+        "timestamp": "2026-02-28 20:09:14",
+        "reason": "Connection from unknown IP: 172.217.194.188"
+    },
+    {
+        "remote_address": "40.99.9.178:443",
+        "local_address": "192.168.1.38:59517",
+        "timestamp": "2026-02-28 20:09:14",
+        "reason": "Connection from unknown IP: 40.99.9.178"
+    },
+    {
+        "remote_address": "4.186.9.165:443",
+        "local_address": "192.168.1.38:55986",
+        "timestamp": "2026-02-28 20:09:14",
+        "reason": "Connection from unknown IP: 4.186.9.165"
+    },
+    {
+        "remote_address": "142.250.182.35:443",
+        "local_address": "192.168.1.38:52794",
+        "timestamp": "2026-02-28 20:09:14",
+        "reason": "Connection from unknown IP: 142.250.182.35"
+    },
+    {
+        "remote_address": "34.162.18.59:443",
+        "local_address": "192.168.1.38:58845",
+        "timestamp": "2026-02-28 20:09:14",
+        "reason": "Connection from unknown IP: 34.162.18.59"
+    },
+    {
+        "remote_address": "51.105.71.136:443",
+        "local_address": "192.168.1.38:57214",
+        "timestamp": "2026-02-28 20:09:14",
+        "reason": "Connection from unknown IP: 51.105.71.136"
+    },
+    {
+        "remote_address": "23.63.108.171:443",
+        "local_address": "192.168.1.38:53205",
+        "timestamp": "2026-02-28 20:09:14",
+        "reason": "Connection from unknown IP: 23.63.108.171"
+    },
+    {
+        "remote_address": "104.18.39.21:443",
+        "local_address": "192.168.1.38:52323",
+        "timestamp": "2026-02-28 20:09:14",
+        "reason": "Connection from unknown IP: 104.18.39.21"
+    },
+    {
+        "remote_address": "172.217.194.188:443",
+        "local_address": "192.168.1.38:55108",
+        "timestamp": "2026-02-28 20:09:14",
+        "reason": "Connection from unknown IP: 172.217.194.188"
+    },
+    {
+        "remote_address": "20.249.115.161:443",
+        "local_address": "192.168.1.38:61937",
+        "timestamp": "2026-02-28 20:09:14",
+        "reason": "Connection from unknown IP: 20.249.115.161"
+    },
+    {
+        "remote_address": "23.201.129.64:443",
+        "local_address": "192.168.1.38:61988",
+        "timestamp": "2026-02-28 20:09:14",
+        "reason": "Connection from unknown IP: 23.201.129.64"
+    },
+    {
+        "remote_address": "23.63.108.171:443",
+        "local_address": "192.168.1.38:59095",
+        "timestamp": "2026-02-28 20:09:14",
+        "reason": "Connection from unknown IP: 23.63.108.171"
+    },
+    {
+        "pid": 0,
+        "name": "System Idle Process",
+        "cpu": 1478.3,
+        "timestamp": "2026-02-28 20:09:14",
+        "reason": "High CPU usage"
+    },
+    {
+        "remote_address": "4.213.25.242:443",
+        "local_address": "192.168.1.38:49442",
+        "timestamp": "2026-02-28 20:09:46",
+        "reason": "Connection from unknown IP: 4.213.25.242"
+    },
+    {
+        "remote_address": "142.250.193.5:443",
+        "local_address": "192.168.1.38:61312",
+        "timestamp": "2026-02-28 20:09:46",
+        "reason": "Connection from unknown IP: 142.250.193.5"
+    },
+    {
+        "remote_address": "23.63.108.194:443",
+        "local_address": "192.168.1.38:59096",
+        "timestamp": "2026-02-28 20:09:46",
+        "reason": "Connection from unknown IP: 23.63.108.194"
+    },
+    {
+        "remote_address": "140.82.114.25:443",
+        "local_address": "192.168.1.38:53607",
+        "timestamp": "2026-02-28 20:09:46",
+        "reason": "Connection from unknown IP: 140.82.114.25"
+    },
+    {
+        "remote_address": "172.217.194.188:443",
+        "local_address": "192.168.1.38:53285",
+        "timestamp": "2026-02-28 20:09:46",
+        "reason": "Connection from unknown IP: 172.217.194.188"
+    },
+    {
+        "remote_address": "172.217.194.188:443",
+        "local_address": "192.168.1.38:51341",
+        "timestamp": "2026-02-28 20:09:46",
+        "reason": "Connection from unknown IP: 172.217.194.188"
+    },
+    {
+        "remote_address": "40.99.9.178:443",
+        "local_address": "192.168.1.38:59517",
+        "timestamp": "2026-02-28 20:09:46",
+        "reason": "Connection from unknown IP: 40.99.9.178"
+    },
+    {
+        "remote_address": "4.186.9.165:443",
+        "local_address": "192.168.1.38:55986",
+        "timestamp": "2026-02-28 20:09:46",
+        "reason": "Connection from unknown IP: 4.186.9.165"
+    },
+    {
+        "remote_address": "142.250.182.35:443",
+        "local_address": "192.168.1.38:52794",
+        "timestamp": "2026-02-28 20:09:46",
+        "reason": "Connection from unknown IP: 142.250.182.35"
+    },
+    {
+        "remote_address": "34.162.18.59:443",
+        "local_address": "192.168.1.38:58845",
+        "timestamp": "2026-02-28 20:09:46",
+        "reason": "Connection from unknown IP: 34.162.18.59"
+    },
+    {
+        "remote_address": "51.105.71.136:443",
+        "local_address": "192.168.1.38:57214",
+        "timestamp": "2026-02-28 20:09:46",
+        "reason": "Connection from unknown IP: 51.105.71.136"
+    },
+    {
+        "remote_address": "104.18.39.21:443",
+        "local_address": "192.168.1.38:52323",
+        "timestamp": "2026-02-28 20:09:46",
+        "reason": "Connection from unknown IP: 104.18.39.21"
+    },
+    {
+        "remote_address": "172.217.194.188:443",
+        "local_address": "192.168.1.38:55108",
+        "timestamp": "2026-02-28 20:09:46",
+        "reason": "Connection from unknown IP: 172.217.194.188"
+    },
+    {
+        "remote_address": "20.249.115.161:443",
+        "local_address": "192.168.1.38:61937",
+        "timestamp": "2026-02-28 20:09:46",
+        "reason": "Connection from unknown IP: 20.249.115.161"
+    },
+    {
+        "remote_address": "23.63.108.171:443",
+        "local_address": "192.168.1.38:59095",
+        "timestamp": "2026-02-28 20:09:46",
+        "reason": "Connection from unknown IP: 23.63.108.171"
+    },
+    {
+        "pid": 0,
+        "name": "System Idle Process",
+        "cpu": 1539.4,
+        "timestamp": "2026-02-28 20:09:46",
+        "reason": "High CPU usage"
+    },
+    {
+        "remote_address": "4.213.25.242:443",
+        "local_address": "192.168.1.38:49442",
+        "timestamp": "2026-02-28 20:10:18",
+        "reason": "Connection from unknown IP: 4.213.25.242"
+    },
+    {
+        "remote_address": "23.63.108.194:443",
+        "local_address": "192.168.1.38:59096",
+        "timestamp": "2026-02-28 20:10:18",
+        "reason": "Connection from unknown IP: 23.63.108.194"
+    },
+    {
+        "remote_address": "140.82.114.25:443",
+        "local_address": "192.168.1.38:53607",
+        "timestamp": "2026-02-28 20:10:18",
+        "reason": "Connection from unknown IP: 140.82.114.25"
+    },
+    {
+        "remote_address": "172.217.194.188:443",
+        "local_address": "192.168.1.38:53285",
+        "timestamp": "2026-02-28 20:10:18",
+        "reason": "Connection from unknown IP: 172.217.194.188"
+    },
+    {
+        "remote_address": "172.217.194.188:443",
+        "local_address": "192.168.1.38:51341",
+        "timestamp": "2026-02-28 20:10:18",
+        "reason": "Connection from unknown IP: 172.217.194.188"
+    },
+    {
+        "remote_address": "40.99.9.178:443",
+        "local_address": "192.168.1.38:59517",
+        "timestamp": "2026-02-28 20:10:18",
+        "reason": "Connection from unknown IP: 40.99.9.178"
+    },
+    {
+        "remote_address": "4.186.9.165:443",
+        "local_address": "192.168.1.38:55986",
+        "timestamp": "2026-02-28 20:10:18",
+        "reason": "Connection from unknown IP: 4.186.9.165"
+    },
+    {
+        "remote_address": "34.162.18.59:443",
+        "local_address": "192.168.1.38:58845",
+        "timestamp": "2026-02-28 20:10:18",
+        "reason": "Connection from unknown IP: 34.162.18.59"
+    },
+    {
+        "remote_address": "51.105.71.136:443",
+        "local_address": "192.168.1.38:57214",
+        "timestamp": "2026-02-28 20:10:18",
+        "reason": "Connection from unknown IP: 51.105.71.136"
+    },
+    {
+        "remote_address": "104.18.39.21:443",
+        "local_address": "192.168.1.38:52323",
+        "timestamp": "2026-02-28 20:10:18",
+        "reason": "Connection from unknown IP: 104.18.39.21"
+    },
+    {
+        "remote_address": "172.217.194.188:443",
+        "local_address": "192.168.1.38:55108",
+        "timestamp": "2026-02-28 20:10:18",
+        "reason": "Connection from unknown IP: 172.217.194.188"
+    },
+    {
+        "remote_address": "20.249.115.161:443",
+        "local_address": "192.168.1.38:61937",
+        "timestamp": "2026-02-28 20:10:18",
+        "reason": "Connection from unknown IP: 20.249.115.161"
+    },
+    {
+        "remote_address": "23.63.108.171:443",
+        "local_address": "192.168.1.38:59095",
+        "timestamp": "2026-02-28 20:10:18",
+        "reason": "Connection from unknown IP: 23.63.108.171"
+    },
+    {
+        "pid": 0,
+        "name": "System Idle Process",
+        "cpu": 1464.2,
+        "timestamp": "2026-02-28 20:10:18",
+        "reason": "High CPU usage"
+    }
+]

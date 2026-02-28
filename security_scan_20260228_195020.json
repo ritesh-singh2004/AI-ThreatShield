@@ -1,0 +1,27 @@
+{
+  "scan_timestamp": "2026-02-28T19:50:09.336073",
+  "system_info": {
+    "platform": "Windows",
+    "platform_release": "11",
+    "platform_version": "10.0.26200",
+    "architecture": "AMD64",
+    "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+    "python_version": "3.12.10",
+    "python_implementation": "CPython",
+    "hostname": "DESKTOP-HEED741",
+    "working_directory": "E:\\Hacker project",
+    "user": "RoboAssist AI",
+    "timestamp": "2026-02-28T19:50:12.755610"
+  },
+  "files_scanned": [],
+  "vulnerabilities_found": [],
+  "recommendations": [],
+  "network_info": {
+    "hostname": "DESKTOP-HEED741",
+    "timestamp": "2026-02-28T19:50:12.755610",
+    "local_services": [],
+    "ip_address": "192.168.1.38"
+  },
+  "file_hashes": {},
+  "scan_summary": {}
+}
